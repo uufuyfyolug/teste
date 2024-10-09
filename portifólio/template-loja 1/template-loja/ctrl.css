@@ -1,0 +1,56 @@
+@font-face {
+    font-family: Candy ;
+    src: url(./Candy.otf);
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    background-color:#b0edff;
+}
+header{
+    font-size: 50px;
+    background-color: #b0edff;
+
+}
+nav{
+    background-color:#b0edff;
+
+}
+
+body{
+    font-size: 50px;
+    display: inline;
+    text-align: center;
+}
+div{
+    text-align: center;
+
+}
+
+table, th, td {
+    text-shadow: 1px 1px 2px black;
+    box-shadow: 2px black;
+    color: #98d6ff;
+    border-color: #b0edff;
+    border: 1px solid;
+  }
+  th {
+  background-color: #b0edff;
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.2s;
+  }
+  table {
+    width: 100%;
+  }
+ 
+  th {
+   
+    height: 70px;
+  }

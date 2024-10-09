@@ -1,0 +1,107 @@
+@font-face {
+    font-family: Candy;
+    src: url(./Candy.otf);
+}
+bodY{
+    text-align: center;
+    zoom: 200%;
+}
+header{
+    background-color:rgb(210, 238, 255);
+    font-family: candy;
+    font-size: 50px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+nav, h2{
+    background-color: rgb(210, 238, 255);
+}
+#z{
+display: inline;
+border-radius: 50px;
+border: black;
+background-color: rgb(210, 238, 255);
+cursor: pointer;
+}
+#x{
+    display: inline;
+    border-radius: 50px;
+    border: black;
+    background-color: rgb(210, 238, 255);
+    cursor: pointer;
+}
+#c{
+    display: inline;
+border-radius: 50px;
+border: black;
+background-color:  rgb(210, 238, 255);
+cursor: pointer;
+}
+#v{
+    display: inline;
+border-radius: 50px;
+border: black;
+background-color: rgb(210, 238, 255);
+cursor: pointer;
+}
+#b{
+    display: inline;
+border-radius: 50px;
+border: black;
+background-color: rgb(210, 238, 255);
+cursor: pointer;
+}
+#n{
+    display: inline;
+border-radius: 50px;
+border: black;
+background-color: rgb(210, 238, 255);
+cursor: pointer;
+}
+div{
+    background-color: rgb(210, 238, 255);
+}
+#star{
+        margin: 100px;
+        position: relative;
+        display: block;
+        width: 0px;
+        height: 0px;
+        border-right: 100px solid transparent;
+        border-bottom: 70px solid rgb(210, 238, 255);
+        border-left: 100px solid transparent;
+        transform: rotate(35deg);
+}
+#star:before {
+    border-bottom: 80px solid #000;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    position: absolute;
+    height: 0;
+    width: 0;
+    top: -45px;
+    left: -65px;
+    display: block;
+    content: ‘’;
+    transform: rotate(-35deg);
+    }
+    #star:after {
+        position: absolute;
+        display: block;
+        top: 3px;
+        left: -105px;
+        width: 0px;
+        height: 0px;
+        border-right: 100px solid transparent;
+        border-bottom: 70px solid #000;
+        border-left: 100px solid transparent;
+        transform: rotate(-70deg);
+        content: ‘’;
+        }
+#corazon{
+    width: 50px;
+    height: 50px;
+    border-radius: 70%;
+}

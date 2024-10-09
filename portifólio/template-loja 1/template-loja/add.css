@@ -1,0 +1,33 @@
+@font-face {
+    font-family: Candy ;
+    src: url(./Candy.otf);
+}
+header{
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: lightblue;
+}
+h2{
+    background-color: lightblue;
+}
+
+body{
+    text-align: center;
+}
+header{
+    font-size: 50px;
+    background-color: lightblue;
+    font-family: candy;
+}
+body{
+    zoom: 200%;
+}
+button:active{
+    background-color: blue;
+    color: white;
+}

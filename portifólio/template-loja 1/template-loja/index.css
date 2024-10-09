@@ -1,0 +1,140 @@
+@font-face {
+    font-family: Candy ;
+    src: url(./Candy.otf);
+}
+
+body{
+    font-size: 50px;
+}
+
+
+
+
+h1{
+    font-family: Candy ;
+}
+nav{
+    text-align: center;
+    background-color: rgb(187, 234, 250);
+    
+}
+body{
+    zoom: 100%;
+}
+main{
+    text-align: center;
+    background-color: rgb(187, 234, 250);
+}
+
+div{
+    text-align: center;
+    background-color: rgb(187, 234, 250);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    font-size: 200%;
+    text-align: center;
+    background-color: rgb(187, 234, 250);
+    padding: 10px;
+}
+
+#jj{
+    font-size: 70px;
+}
+.h{
+    max-width: 100px;
+    max-height: 90px;
+}
+.ç{
+    max-width: 100px;
+    max-height: 90px;
+}
+.n{
+    max-width: 100px;
+    max-height: 90px;
+}
+table, th, td {
+    text-shadow: 1px 1px 2px black;
+    box-shadow: 2px black;
+    color:#9fccff;
+    border-color: rgb(142, 206, 255);
+    border: 1px solid;
+  }
+  th {
+  background-color: #b0edff;
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.2s;
+  }
+  table {
+    width: 100%;
+  }
+ 
+  th {
+   
+    height: 70px;
+  }
+
+.p{
+    width: 100px;
+   height: 70px;
+}
+.p2{
+    width: 100px;
+   height: 90px;
+}
+.p3{
+    width: 100px;
+   height: 90px;
+}
+.p4{
+    width: 100px;
+   height: 90px;
+}
+.p5{
+    width: 90px;
+   height: 70px;
+}
+button{
+    width: 200px;
+    height: 100px; 
+}
+button:active{
+    color: white;
+    background-color: blue;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(187, 234, 250);
+}
+button{
+    background-color: #daf6ff;
+    border: white;
+}
+
+tr:hover {
+    background-color:#c1d8e2;
+}
+.h1{
+    background-color: white;
+    border-radius: 40px;
+    border-color:#000000 ;
+}
+
+.liv{
+background-color: #b0edff;    
+}
+
+
+
+
+
+
+
+
+
